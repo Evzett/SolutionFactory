@@ -66,8 +66,11 @@ ML-модуль выполняет:
 - анализировать отзывы автоматически,
 - быстро создавать собственную витрину,
 - увеличивать продажи.
-
+## Примеры веб-интерфейса
 <img width="2043" height="1071" alt="image" src="https://github.com/user-attachments/assets/3778526c-ae87-4d91-867b-208866431a40" />
+<img width="2029" height="1073" alt="image" src="https://github.com/user-attachments/assets/2ef8b1f1-8203-4eef-8893-b7c90c043d5f" />
+<img width="2036" height="1080" alt="image" src="https://github.com/user-attachments/assets/7ccbebc5-b8eb-4a28-a0e7-7a62c0f74e65" />
+
 
 
 # User Stories для двух сервисов (Сервис 1 и Сервис 2)
